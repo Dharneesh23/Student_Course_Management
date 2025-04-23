@@ -1,4 +1,4 @@
-# Student Course Management System
+# 👨‍🎓 Student Course Management System
 ## Overview
 The Student Course Management System is a Java-based application aimed at streamlining the management of student information, course enrollments, and academic records. This system provides a user-friendly interface for administrators, instructors, and students to interact with and manage academic data efficiently.
 
